@@ -1,0 +1,20 @@
+body {
+    background: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input[readonly] {
+    background-color: #e9ecef;
+    font-weight: bold;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
